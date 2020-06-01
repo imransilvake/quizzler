@@ -1,2 +1,3 @@
-# Quiz App
-A simple quiz app built using Flutter Framework.
+# Quizzler ❓
+
+<img src="preview.png" width="30%">
