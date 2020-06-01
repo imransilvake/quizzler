@@ -13,3 +13,7 @@ A simple quiz app built using Flutter Framework. It covers the fundamental build
 
 ## Package
 - [X] [rflutter_alert](https://pub.dev/packages/rflutter_alert)
+
+
+## Information
+Learn the basics of flutter from [App Brewery](https://www.appbrewery.co/).
