@@ -5,7 +5,6 @@ A simple quiz app built using Flutter Framework. It covers the fundamental build
 
 
 ## Content
-- What you will learn
 - Modularising your code into separate classes.
 - Dart classes and objects.
 - Using class constructors.
