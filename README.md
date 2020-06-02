@@ -16,4 +16,4 @@ A simple quiz app built using Flutter Framework. It covers the fundamental build
 
 
 ## Credits
-Learned the basics of flutter from [App Brewery](https://www.appbrewery.co/).
+Learned the basics of Flutter from [App Brewery](https://www.appbrewery.co/).
