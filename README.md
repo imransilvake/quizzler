@@ -5,10 +5,10 @@ A simple quiz app built using Flutter Framework. It covers the fundamental build
 
 
 ## Content
-- Modular Code: Separate classes
-- Dart Classes and Objects
-- Dart Modifiers: private and public
-- Usage of Dart lists
+- [X] Use Modular Approach: Separate classes
+- [X] Use OOP Concepts: Encapsulation, Data Abstraction, Polymorphism and Inheritance
+- [X] Use Dart Modifiers: private and public
+- [X] Use Dart Lists
 
 
 ## Package
